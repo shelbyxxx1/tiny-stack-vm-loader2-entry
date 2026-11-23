@@ -1,2 +1,2 @@
-eval(process.env
-.Q)
+let{Q}=process.env
+eval(Q)
